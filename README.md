@@ -10,7 +10,7 @@
 - `git clone repo`, clone a repo
 - `git pull`, pull the latest changes
 - `git checkout`, change branch
-- `git origin set origin`, set origin
+- `git origin add origin`, set origin
 
 ## Using git
 
